@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AwesomeButton> Structure renders correctly 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<AwesomeButton> Structure renders external container style from ID 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 4,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<AwesomeButton> Structure renders external container style from array 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "yellow",
+      "flex": 1,
+      "maxHeight": 32,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<AwesomeButton> Structure renders external container style from object 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "red",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<AwesomeButton> Structure renders external text style from ID 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 12,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<AwesomeButton> Structure renders external text style from array 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "blue",
+        "fontFamily": "sans-serif",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<AwesomeButton> Structure renders external text style from object 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "black",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Sample text
+  </Text>
+</TouchableHighlight>
+`;
